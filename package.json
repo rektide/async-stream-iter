@@ -1,0 +1,16 @@
+{
+	"name": "async-stream-iter",
+	"version": "1.0.0",
+	"description": "Read from a WHATWG Stream via a Asynchronous Iterator",
+	"main": "async-stream-iter.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://archive.eldergods.com/async-stream-iter"
+	},
+	"keywords": ["streams", "async iter"],
+	"author": "rektide de la faye",
+	"license": "X11"
+}
