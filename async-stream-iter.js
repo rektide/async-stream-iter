@@ -15,3 +15,5 @@ function *asyncStreamIter( reader){
 		yield cursor
 	}
 }
+
+module.exports = asyncStreamIter
